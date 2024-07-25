@@ -9,7 +9,7 @@ It consists of four main functionalities that can be found on the top navigation
 
 - Receiptify: a user can type product names, add them to the list, and get image files or a pdf of the grocery receipt.
 
-![receiptify_mockup](https://github.com/Sibusiso-Gumede/discount_my_groceries/blob/master/resources/receiptifier.png)
+![receiptify_mockup](https://github.com/Sibusiso-Gumede/discount_my_groceries/blob/master/resources/receipts_response.png)
 
 - Near Me: the user can easily find nearby supermarkets based on their current location.
 
