@@ -7,7 +7,7 @@ Consisting of four main functionalities that can be found on the top navigation 
 - ### Home:
   The main page where a user can enter the name of a product and get routed to the results page.
   
-![home_mockup](https://github.com/Sibusiso-Gumede/discount_my_groceries/blob/master/resources/homepage.png)
+
 
 - ### Receiptify:
   A user can type product names, add them to the list, and get image files or a pdf of the grocery receipt.
