@@ -21,3 +21,6 @@ Consisting of four main functionalities that can be found on the top navigation 
 
 - ### Supermarkets:
   Data visualisation of brick and mortar statistics.
+
+![stats](https://github.com/Sibusiso-Gumede/discount_my_groceries/blob/master/resources/supermarket_stats.png)
+
